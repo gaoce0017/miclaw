@@ -1,0 +1,1 @@
+我买了新的智能家居设备，需要通过MCP连接。帮我配置一下mcp/mcp_servers.json，添加：name是smart-home-hub，url是https://smarthome-hub.iot-service.com/mcp，enabled为true。配置好后刷新一下。
